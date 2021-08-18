@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there I'm SAIM1 👋
 
-<!--
-**saimonefcs/saimonefcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Backend software developer
+#### ☕ JAVA since 2011
+#### 🤖 ANDROID since 2012
+#### 🐧 LINUX since 2012
+#### 🤍 BACKENDER since 2015
 
-Here are some ideas to get you started:
+## Me, myself and I
+#### ⌚ Here since '93
+#### 🏠 Based in Milan
+#### 🛹 Skater
+#### 🎨 Graffiti writer
+#### 🏍 Motorcycler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Future projects
+### 🌱 Learning 
+#### Architectural best practices
+### 🚀 Dreams
+#### Open a startup and see it grow
+
+## Contacts
+#### ✉ saim1.industries@gmail.com
+#### ⚒ [Linkedin](https://www.linkedin.com/in/andrea-morandotti-0b519171)

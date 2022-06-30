@@ -1,6 +1,6 @@
 ### Hi there I'm SAIM1 👋
 
-## Backend software developer
+## Senior Backend Engineer
 #### ☕ JAVA since 2011
 #### 🤖 ANDROID since 2012
 #### 🐧 LINUX since 2012
@@ -17,7 +17,6 @@
 ### 🌱 Learning 
 #### Architectural best practices
 ### 🚀 Dreams
-#### Open a startup and see it grow
 
 ## Contacts
 #### ✉ saim1.industries@gmail.com
